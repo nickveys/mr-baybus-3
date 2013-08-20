@@ -1,0 +1,21 @@
+Graphic LCD
+2-button Interface for hardware
+USB Interface for software
+
+Passthrough operation:
+ * Choose to enable passthrough
+ * Press button on device to return
+ * Can be default power-on option
+
+Fan Control:
+ * 4 channels (0-3)
+ * On/Off
+ * Variable rate PWM
+
+Light Control:
+ * 2 channels (0-1)
+ * On/Off/Strobe/HDD/HDD Inverted
+
+Temperature Sensors:
+ * 3 sensors (0-2)
+ * 1 degree precision desired

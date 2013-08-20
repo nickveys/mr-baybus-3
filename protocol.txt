@@ -1,0 +1,16 @@
+[type][packet dependant][packet dependant]
+
+Fan Messages:
+[00][Fan # (0-3)][Speed %] - Fan Speed Update
+
+Light Messages:
+[10][Light # (0-1)][Mode] - Light Mode Update
+ * Modes:
+  * 01 - On
+  * 02 - Off
+  * 03 - Strobe
+  * 04 - HDD Activity
+  * 05 - HDD Activity Inverted
+
+Temperature Messages:
+[20][Sensor # (0-2)][Temperature] - Temperature Update

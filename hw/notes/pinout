@@ -1,0 +1,28 @@
+01 - _MCLR, Vpp, RE3 				- ICSP Vpp
+02 - RA0, AN0 						- T0
+03 - RA1, AN1						- T1
+04 - RA2, AN2, Vref-, CVRef			- T2
+05 - RA3, AN3, Vref+				- 
+06 - RA4, T0CKI, C1OUT				- 
+07 - RA5, AN4, _SS, LVDIN, C2OUT	- 
+08 - Vss							- Ground
+09 - OSC1, CLKI, RA7				- F0
+10 - OSC2, CLKO, RA6				- F1
+11 - RC0, T1OSO, T1CKI				- F2
+12 - RC1, T1OSI, CCP2				- F3
+13 - RC2, CCP1, P1A					- L0 Shadow (jumperable)
+14 - RC3, SCK, SCL					- I2C SCL (LCD)
+15 - RC4, SDI, SDA					- I2C SDA (LCD)
+16 - RC5, SDO						- L1 Shadow (jumperable)
+17 - RC6, TX, CK					- USB TX
+18 - RC7, RX, DT					- USB RX
+19 - Vss							- Ground
+20 - Vdd							- +5
+21 - RB0, AN12, INT0				- B0
+22 - RB1, AN10, INT1				- B1
+23 - RB2, AN8, INT2					- B2
+24 - RB3, AN9, CCP2					- HDD
+25 - RB4, AN11, KBI0				- L0
+26 - RB5, KBI1, PGM					- L1
+27 - RB6, KBI2, PGC					- ICSP Clock
+28 - RB7, KBI3, PGD					- ICSP Data

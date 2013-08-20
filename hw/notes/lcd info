@@ -1,0 +1,35 @@
+1 - Splash Screen (01splash.bmp)
+2 - Temperatures 0 and 1 (02temps.bmp)
+3 - Fans 0-3 (03fans.bmp)
+4 - Lights 0 and 1 (04lights.bmp)
+5 - Configuration (05config.bmp)
+6 - About, details, copyrights, versions, etc... (06about.bmp)
+
+Temps:
+
+0: 3(41,9) 2(43,9)
+1: 3(67,9) 2(69,9)
+2: 3(93,9) 2(95,9)
+
+Light:
+
+0: (53,8)
+1: (53,19)
+
+Config:
+
+Font: #2 (Clean 6x5)
+
+(38,8): "PWM:"
+(38,17): "PWM Freq:"
+
+(38,8): "LCD Backlight:"
+(38,17): "LCD Contrast:"
+
+(38,8): "Enable Serial"
+(38,17): "Passthrough Mode"
+
+Fonts:
+1: Small Fonts 7x5
+2: Clean 6x5
+3: Impact 23x19
